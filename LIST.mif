@@ -1,0 +1,112 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=8;
+DEPTH=512;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	000  :   01;
+	001  :   7A;
+	002  :   61;
+	003  :   6F;
+	004  :   20;
+	005  :   73;
+	006  :   68;
+	007  :   61;
+	008  :   6E;
+	009  :   67;
+	00A  :   20;
+	00B  :   68;
+	00C  :   61;
+	00D  :   6F;
+	00E  :   FF;
+	00F  :   0D;
+	010  :   02;
+	011  :   62;
+	012  :   65;
+	013  :   6E;
+	014  :   20;
+	015  :   64;
+	016  :   61;
+	017  :   6E;
+	018  :   FF;
+	019  :   07;
+	01A  :   03;
+	01B  :   62;
+	01C  :   61;
+	01D  :   6F;
+	01E  :   20;
+	01F  :   71;
+	020  :   69;
+	021  :   61;
+	022  :   6E;
+	023  :   FF;
+	024  :   08;
+	025  :   04;
+	026  :   78;
+	027  :   69;
+	028  :   65;
+	029  :   20;
+	02A  :   78;
+	02B  :   69;
+	02C  :   65;
+	02D  :   FF;
+	02E  :   07;
+	02F  :   05;
+	030  :   71;
+	031  :   75;
+	032  :   20;
+	033  :   73;
+	034  :   69;
+	035  :   FF;
+	036  :   05;
+	037  :   07;
+	038  :   06;
+	039  :   77;
+	03A  :   6F;
+	03B  :   20;
+	03C  :   68;
+	03D  :   75;
+	03E  :   69;
+	03F  :   20;
+	040  :   6C;
+	041  :   61;
+	042  :   69;
+	043  :   20;
+	044  :   6C;
+	045  :   65;
+	046  :   FF;
+	047  :   0D;
+	048  :   07;
+	049  :   79;
+	04A  :   6F;
+	04B  :   6E;
+	04C  :   67;
+	04D  :   20;
+	04E  :   62;
+	04F  :   69;
+	050  :   65;
+	051  :   20;
+	052  :   6C;
+	053  :   65;
+	054  :   FF;
+	055  :   0B;
+	056  :   FF;
+	[057..1FF]  :   00;
+END;
